@@ -1,10 +1,10 @@
 {
   "name": "@dawin-convex/databricks-sync",
   "description": "Incrementally sync Databricks tables into Convex.",
-  "repository": "github:get-convex/databricks-sync",
-  "homepage": "https://github.com/get-convex/databricks-sync#readme",
+  "repository": "github:convex/databricks-sync",
+  "homepage": "https://github.com/convex/databricks-sync#readme",
   "bugs": {
-    "url": "https://github.com/get-convex/databricks-sync/issues"
+    "url": "https://github.com/convex/databricks-sync/issues"
   },
   "version": "0.1.1",
   "license": "Apache-2.0",

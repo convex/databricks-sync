@@ -207,4 +207,4 @@ npm run typecheck
 ```
 
 Found a bug or have a feature request?
-[Open an issue](https://github.com/get-convex/databricks-sync/issues).
+[Open an issue](https://github.com/convex/databricks-sync/issues).
